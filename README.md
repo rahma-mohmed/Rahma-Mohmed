@@ -12,7 +12,7 @@
 </p> 
 
 - 👨‍💻 I'm a BackEnd Developer.
-- 🌱 I’m currently learning Dot net.
+- 🌱 I'm currently learning Dot Net.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
