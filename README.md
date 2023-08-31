@@ -13,6 +13,7 @@
 
 - 👨‍💻 I'm a BackEnd Developer
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🌱 I’m currently learning Dot net
 
 ### Connect with Me :
 
