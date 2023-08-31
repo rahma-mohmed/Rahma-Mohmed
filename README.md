@@ -30,4 +30,7 @@
 [![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)](https://isocpp.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white&color=black)](https://www.mysql.com/)
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
