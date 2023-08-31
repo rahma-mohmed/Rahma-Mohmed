@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-05122A?style=flat)](https://en.wikipedia.org/wiki/Problem_solving)
 [![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)](https://isocpp.org/)
