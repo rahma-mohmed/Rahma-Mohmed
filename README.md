@@ -54,10 +54,6 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@rahma_mohmed"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=rahma_mohmed&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
-</p>
-
-<p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
