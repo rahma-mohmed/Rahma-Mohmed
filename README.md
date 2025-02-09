@@ -55,7 +55,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,cpp,cs,vscode,dotnet,ef,sql,mongo,py&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,cpp,cs,vscode,dotnet,mssql,mongo,py&titles=true" alt="skill icons" title="skill icons">
 </p>
 
 <p align="center">
