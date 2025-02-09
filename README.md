@@ -48,7 +48,8 @@
 
 <p align="center">
     <!-- https://github.com/Platane/snk -->
-   ![github-user-contribution](https://github.com/user-attachments/assets/d8ccce4f-5131-4e92-bf8a-fc215f1108ce)
+   
+![github-user-contribution](https://github.com/user-attachments/assets/229b5c6c-bdb1-431e-bd24-d85ed26a9f22)
 
 </p>
 
