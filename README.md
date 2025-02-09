@@ -58,12 +58,15 @@
 </p>
 
 <p align="center">
-    <!-- https://github.com/Platane/snk -->
-    <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@Snoopy1866"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=rahma_mohmed&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
+    <a href="https://wakatime.com/@rahma_mohmed"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=rahma_mohmed&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
 </p>
 
 <p align="center">
