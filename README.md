@@ -1,3 +1,4 @@
+<img width="320" align="right" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" style="border-radius: 30 px;">
 <h3 align="center">
   Welcome to Rahma Mohmed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -47,7 +48,8 @@
 
 <p align="center">
     <!-- https://github.com/Platane/snk -->
-    ![github-user-contribution](https://github.com/user-attachments/assets/d8ccce4f-5131-4e92-bf8a-fc215f1108ce)<img width="320" align="right" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" style="border-radius: 30 px;">
+    ![github-user-contribution](https://github.com/user-attachments/assets/f9406e66-b341-40d0-8a20-4f1cf1d7072e)
+
 </p>
 
 <p align="center">
