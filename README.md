@@ -1,18 +1,18 @@
 <img width="320" align="right" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" style="border-radius: 30 px;">
 <h3 align="center">
-  Welcome to Rahma Mohmed's profile!
+  Welcome to my profile !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=%2333FFAC&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20Warrior%20in%20the%20making;Building%20APIs%20like%20a%20pro;Always%20learning%20new%20tech&font=Fira%20Code&center=true&width=440&height=45&color=%2333FFAC&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm a BackEnd Developer.
-- 🌱 I'm currently learning Dot Net.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-
+- 👨‍💻 Junior Backend Developer with expertise in .NET technologies and API development.
+- 🌱 Currently advancing my skills in ASP.NET Core, Entity Framework Core, and SQL Server to build robust backend solutions.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a dedicated Computer Science student, I'm always evolving by mastering new tools and frameworks to sharpen my technical expertise.
+- 🔧 Passionate about developing high-performance Web APIs, ensuring scalability, and maintaining clean, efficient code.
 
 ### Connect with Me :
 
