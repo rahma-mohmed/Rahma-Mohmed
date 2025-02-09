@@ -9,10 +9,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20and%20growing%20every%20day;Code%20Magician;Always%20learning%20new%20tech;Every%20line%20of%20code%20is%20a%20spell&font=Fira%20Code&center=true&width=440&height=45&color=%2333FFAC&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 Junior Backend Developer with expertise in .NET technologies and API development.
-- 🌱 Currently advancing my skills in ASP.NET Core, Entity Framework Core, and SQL Server to build robust backend solutions.
+- 👨‍💻 Junior Backend Developer with expertise in .NET technologies.
+  
+- 🌱 Currently advancing skills in .NET development and SQL Server to build robust and scalable backend solutions.
+  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a dedicated Computer Science student, I'm always evolving by mastering new tools and frameworks to sharpen my technical expertise.
-- 🔧 Passionate about developing high-performance Web APIs, ensuring scalability, and maintaining clean, efficient code.
+  
+- 🔧 Passionate about writing clean, efficient code and continuously improving technical expertise to meet evolving development challenges.
 
 ### Connect with Me :
 
