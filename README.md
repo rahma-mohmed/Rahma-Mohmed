@@ -34,6 +34,10 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white&color=black)](https://www.mysql.com/)
 
 <p align="center">
+    <a href="https://wakatime.com/@Snoopy1866"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=rahma-mohmed&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
+</p>
+
+<p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
