@@ -27,12 +27,12 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,cpp,cs,vscode,dotnet,mongo,py&titles=true" alt="skill icons" title="skill icons">
-    <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
-    <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
-    <img src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
-    <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
-    <img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
+  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,cpp,cs,vscode,dotnet,mongo,py&titles=true" alt="skill icons" title="skill icons">
+  <img width="50" src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
+  <img width="50" src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
+  <img width="50" src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
+  <img width="50" src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
+  <img width="50" src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
 </p>
 
 <p align="center">
