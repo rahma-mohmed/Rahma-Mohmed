@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/rahma-aboshaheen-059868289/" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rahma-aboshaheen-059868289/" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/rahma0M" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://wa.me/+201010325679" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/rahma1422" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
