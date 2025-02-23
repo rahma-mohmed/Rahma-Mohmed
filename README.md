@@ -21,18 +21,18 @@
 
 <a href="https://www.linkedin.com/in/rahma-aboshaheen-059868289/" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/rahma0M" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/rahma1422" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://wa.me/+201010325679" target="_blank"><img src="https://img.shields.io/badge/-Rahma%20Mohmed-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/rahma1422" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,cpp,cs,vscode,dotnet,mongo,py&titles=true" alt="skill icons" title="skill icons">
-  <img width="70" src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
-  <img width="70" src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
-  <img width="70" src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
-  <img width="70" src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
-  <img width="70" src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,cpp,cs,vscode,dotnet,mongo,py&titles=true" alt="skill icons" title="skill icons">
+    <img width="70" src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
+    <img width="70" src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
+    <img width="70" src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
+    <img width="70" src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
 </p>
 
 <p align="center">
