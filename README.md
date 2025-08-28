@@ -48,11 +48,6 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=rahma-mohmed&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=rahma-mohmed&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/github-snake-dark.svg" />
