@@ -54,11 +54,12 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=rahma-mohmed&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
 </p>
 
-<p align="center">
-    <!-- https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/github-snake.svg" />
+</picture>
 
-
-</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
