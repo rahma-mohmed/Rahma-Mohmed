@@ -60,10 +60,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/rahma-mohmed/rahma-mohmed/output/ocean.gif" />
-</p>
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
