@@ -1,0 +1,42 @@
+name: Generate Snake
+
+on:
+  # تشغيل يومي (00:00 UTC). القاهرة +3 ساعات، يعني 03:00 صباحًا بتوقيت القاهرة.
+  schedule:
+    - cron: "0 0 * * *"
+  # للسماح بالتشغيل اليدوي والتشغيل عند كل push على main
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake (SVG + Dark + GIF)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
