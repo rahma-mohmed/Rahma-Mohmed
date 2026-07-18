@@ -37,9 +37,8 @@
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-  
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js 
+  https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=rahma-mohmed&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
 </p>
 
@@ -59,4 +58,3 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
